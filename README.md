@@ -2,6 +2,8 @@
 
 I'm Kunal, a passionate developer and creator. Welcome to my GitHub profile! Here you'll find a mix of my projects, contributions, and a glimpse into my coding journey.
 
+[![An image of @kunalbhatia18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kunalbhatia18)](https://holopin.io/@kunalbhatia18)
+
 ## About Me
 
 - 🌟 Software Developer
